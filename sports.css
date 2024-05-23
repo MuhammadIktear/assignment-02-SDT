@@ -1,0 +1,13 @@
+.card {
+    margin-bottom: 20px;
+}
+.body{
+    background-color:#DDD0C8;
+}
+.name{
+    color: white;
+    text-align: center;
+    background-color:#5d5c5b;
+    padding: 30px;
+    margin-bottom: 30px;
+}
